@@ -1,5 +1,3 @@
-# Andre's User Page
-
 ![Distorted face emoji](distorted-face.png)
 
 ## About
